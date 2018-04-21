@@ -10,3 +10,14 @@ Homebrew | Used to install node
 Node/NPM | Node runs Javascript ouside of the browser.  NPM is used for installing and managing dependencies.  Node and NPM come together.
 watchman | Watches files on the hard drive and waits for them to change.
 RN CLI | React Native Command Line Interface.  Used to generate new React Native projects.
+
+* To run your app on iOS:
+   cd /Users/vukdukic/ARC-ReactNative/albums
+   react-native run-ios
+   - or -
+   Open ios/albums.xcodeproj in Xcode
+   Hit the Run button
+* To run your app on Android:
+   cd /Users/vukdukic/ARC-ReactNative/albums
+   Have an Android emulator running (quickest way to get started), or a device connected
+   react-native run-android
