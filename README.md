@@ -21,3 +21,4 @@ RN CLI | React Native Command Line Interface.  Used to generate new React Native
    cd /Users/vukdukic/ARC-ReactNative/albums
    Have an Android emulator running (quickest way to get started), or a device connected
    react-native run-android
+* [Troubleshooting React Native Startup](https://rallycoding.com/blog/troubleshooting-react-native-startup/)
