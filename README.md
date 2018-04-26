@@ -3,6 +3,7 @@
 ## Tech Stack
 * [React Native Getting Started](http://facebook.github.io/react-native/docs/getting-started.html)
 * [Axios](https://medium.com/codingthesmartway-com-blog/getting-started-with-axios-166cb0035237)
+* [Firebase Console](https://console.firebase.google.com/u/0/?pli=1)
 
 <b>Dependency</b> | Purpose
 ------------ | -------------
