@@ -29,3 +29,4 @@ RN CLI | React Native Command Line Interface.  Used to generate new React Native
 ## CLI
 * react-native init auth
 * react-native run-ios
+* npm install --save firebase
