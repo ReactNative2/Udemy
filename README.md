@@ -23,3 +23,6 @@ RN CLI | React Native Command Line Interface.  Used to generate new React Native
    react-native run-android
 * [Troubleshooting React Native Startup](https://rallycoding.com/blog/troubleshooting-react-native-startup/)
 * [API music_albums](http://rallycoding.herokuapp.com/api/music_albums)
+
+## CLI
+* react-native init auth
