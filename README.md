@@ -34,3 +34,4 @@ RN CLI | React Native Command Line Interface.  Used to generate new React Native
 * npm install -g firebase-tools // Install Firebase tools
 * functions stop
 * npm uninstall -g @google-cloud/functions-emulator  //Uninstall the current emulator
+* npm install -g @google-cloud/functions-emulator  //Install the new version of the emulator
