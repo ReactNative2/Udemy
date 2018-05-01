@@ -35,3 +35,4 @@ RN CLI | React Native Command Line Interface.  Used to generate new React Native
 * functions stop
 * npm uninstall -g @google-cloud/functions-emulator  //Uninstall the current emulator
 * npm install -g @google-cloud/functions-emulator  //Install the new version of the emulator
+* npm install -g create-react-app
